@@ -1,0 +1,5 @@
+
+
+# O dataset referente aos microdados do Encceja foi dividido em 6 partes utilizando o programa 7-Zip devido ao tamanho do arquivo.
+
+# O dicionário das variáveis desses microdados pode ser acessado na aba "NACIONAL REGULAR" do arquivo Dicionário de dados_ENCCEJA.xlsx  
